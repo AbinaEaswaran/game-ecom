@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/game-ecom/static/css/main.c6682127.css",
-    "main.js": "/game-ecom/static/js/main.f3a1b373.js",
+    "main.js": "/game-ecom/static/js/main.f6cdbbc4.js",
     "index.html": "/game-ecom/index.html",
     "main.c6682127.css.map": "/game-ecom/static/css/main.c6682127.css.map",
-    "main.f3a1b373.js.map": "/game-ecom/static/js/main.f3a1b373.js.map"
+    "main.f6cdbbc4.js.map": "/game-ecom/static/js/main.f6cdbbc4.js.map"
   },
   "entrypoints": [
     "static/css/main.c6682127.css",
-    "static/js/main.f3a1b373.js"
+    "static/js/main.f6cdbbc4.js"
   ]
 }
